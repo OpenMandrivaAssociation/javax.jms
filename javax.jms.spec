@@ -1,6 +1,6 @@
 Name: javax.jms
 Version: 2.0.1
-Release: 1
+Release: 2
 Group: Development/Java
 Summary: An implementation of the javax.jms-api API
 Source0: https://repo1.maven.org/maven2/javax/jms/javax.jms-api/%{version}/javax.jms-api-%{version}-sources.jar
